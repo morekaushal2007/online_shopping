@@ -1,0 +1,5 @@
+print("add the produt name")
+a=input("the product : ")
+print("the product id : is 23494")
+print("the product cost 20$")
+print("your product is added to the cart")
